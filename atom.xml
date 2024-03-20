@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>风之国度</title>
+  
+  <subtitle>采女孩的小蘑菇</subtitle>
+  <link href="http://blog.luifai.com/atom.xml" rel="self"/>
+  
+  <link href="http://blog.luifai.com/"/>
+  <updated>2024-03-20T07:07:39.799Z</updated>
+  <id>http://blog.luifai.com/</id>
+  
+  <author>
+    <name>少年阿锋</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我是帅哥</title>
+    <link href="http://blog.luifai.com/2024/03/20/wo-shi-shuai-ge/"/>
+    <id>http://blog.luifai.com/2024/03/20/wo-shi-shuai-ge/</id>
+    <published>2024-03-20T07:07:39.000Z</published>
+    <updated>2024-03-20T07:07:39.799Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>typora-vue-theme主题介绍</title>
+    <link href="http://blog.luifai.com/2018/09/07/hello-world/"/>
+    <id>http://blog.luifai.com/2018/09/07/hello-world/</id>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <updated>2024-03-20T08:39:12.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://blog.luifai.com/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://blog.luifai.com/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://blog.luifai.com/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
