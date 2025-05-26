@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>风之国度</title>
+  
+  <subtitle>采女孩的小蘑菇</subtitle>
+  <link href="https://blog.luifai.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.luifai.com/"/>
+  <updated>2023-04-10T07:40:46.254Z</updated>
+  <id>https://blog.luifai.com/</id>
+  
+  <author>
+    <name>阿锋</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.luifai.com/2025/05/26/hello-world/"/>
+    <id>https://blog.luifai.com/2025/05/26/hello-world/</id>
+    <published>2025-05-26T08:21:19.192Z</published>
+    <updated>2023-04-10T07:40:46.254Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
