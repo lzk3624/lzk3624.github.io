@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>路边情报调查局</title>
+  <title>路边社</title>
   
-  <subtitle>采女孩的小蘑菇</subtitle>
+  <subtitle>路边情报调查局</subtitle>
   <link href="https://blog.luifai.com/atom.xml" rel="self"/>
   
   <link href="https://blog.luifai.com/"/>
@@ -10,7 +10,7 @@
   <id>https://blog.luifai.com/</id>
   
   <author>
-    <name>阿锋</name>
+    <name>贝塔</name>
     
   </author>
   
